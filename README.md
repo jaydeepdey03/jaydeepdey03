@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Ethereum Transfer App](https://github.com/jaydeepdey03/Ethereum-Transfer-Application)
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **Next JS**, **Solidity**
 
 - 💬 Ask me about **React, NextJS, Express**
 
