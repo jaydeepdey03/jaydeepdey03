@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [My Personal Blog website](https://github.com/jaydeepdey03/blog-website)
+- 🔭 I’m currently working on [Ethereum Transfer App]([https://github.com/jaydeepdey03/blog-website](https://github.com/jaydeepdey03/Ethereum-Transfer-Application))
 
 - 🌱 I’m currently learning **Next JS**
 
