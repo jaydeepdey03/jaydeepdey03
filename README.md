@@ -12,6 +12,8 @@
 
 - 💬 Ask me about **React, NextJS, Express**
 
+- 👨‍💻 All of my projects are available at [Personal Portfolio](https://jaydeepdey03.vercel.app/)
+
 - 📫 How to reach me **jaydeep.dey03@gmail.com**
 
 - ⚡ Fun fact **I am very passionate about what I love to do**
