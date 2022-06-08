@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [Ethereum Transfer App](https://github.com/jaydeepdey03/Ethereum-Transfer-Application)
+- 🔭 I’m currently working on [PolyStore - MarketPlace running on Polygon Blockchain](https://github.com/jaydeepdey03/nft-marketplace-polygon)
 
 - 🌱 I’m currently learning **Next JS**, **Solidity**
 
