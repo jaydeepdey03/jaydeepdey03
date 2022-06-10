@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [PolyStore - MarketPlace running on Polygon Blockchain](https://github.com/jaydeepdey03/nft-marketplace-polygon)
 
-- 🌱 I’m currently learning **Next JS**, **Solidity**
+- 🌱 I’m currently learning **Web3**, **Solidity**
 
 - 💬 Ask me about **React, NextJS, Express**
 
