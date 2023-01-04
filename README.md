@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on [PolyStore - MarketPlace running on Polygon Blockchain](https://github.com/jaydeepdey03/nft-marketplace-polygon)
+<!-- - 🔭 I’m currently working on [PolyStore - MarketPlace running on Polygon Blockchain](https://github.com/jaydeepdey03/nft-marketplace-polygon) -->
 
-- 🌱 I’m currently learning **Web3**, **Solidity**
+- 🌱 I’m currently learning **Web3**, **Solidity**, **Machine Learning and Deep Learning**
 
 - 💬 Ask me about **React, NextJS, Express**
 
