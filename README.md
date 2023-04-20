@@ -1,7 +1,14 @@
 <a href="#"><img width="100%" height="auto" src="https://github.com/jaydeepdey03/jaydeepdey03/blob/main/photo_me.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px" width="30px">, I'm Jaydeep</h1>
-<h3 align="center">A passionate frontend React and NextJS developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
+
+Hi there! My name is Jaydeep Dey, and I'm a passionate technologist. I love to create and innovate by designing and building things with code. I have experience in various programming languages and technologies, including Python, Java, JavaScript, and React. I enjoy tackling complex problems and finding creative solutions through software development. In my free time, I like to explore emerging technologies and experiment with new tools and frameworks. I'm excited to showcase my technical skills and share my projects with you on this platform. Let's connect and discuss how we can collaborate to build something great!
+
+Connect with me by typing out this command in your terminal
+```bash
+  npx jaydeepdey03
+```
 
 
 ## 🙋‍♂️ About Me
