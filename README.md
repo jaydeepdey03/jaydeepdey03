@@ -6,10 +6,10 @@
 Hi there! My name is Jaydeep Dey, and I'm a passionate technologist. I love to create and innovate by designing and building things with code. I have experience in various programming languages and technologies, including Python, JavaScript, NodeJS and React/NextJS. I enjoy tackling complex problems and finding creative solutions through software development. In my free time, I like to explore emerging technologies and experiment with new tools and frameworks. I'm excited to showcase my technical skills and share my projects with you on this platform. Let's connect and discuss how we can collaborate to build something great!
 
 Connect with me by typing out this command in your terminal
+
 ```bash
   npx jaydeepdey03
 ```
-
 
 ## 🙋‍♂️ About Me
 
@@ -28,8 +28,43 @@ Connect with me by typing out this command in your terminal
 ## 🚀 Languages and Tools:
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jaydeepdey03/jaydeepdey03/main/Screenshot%202022-06-18%20201151.jpg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/jaydeepdey03/jaydeepdey03/main/Screenshot%202022-06-18%20200824.jpg" alt="express" width="40" height="40"/> </a> </p>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> 
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> 
+  </a> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
+  </a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/> 
+  </a> 
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://skillicons.dev/icons?i=solidity" alt="solidity" width="40" height="40"/> 
+  </a> 
+</div>
+
 
 [![@jaydeepdey03's Holopin board](https://holopin.me/jaydeepdey03)](https://holopin.io/@jaydeepdey03)
 
@@ -49,7 +84,6 @@ Connect with me by typing out this command in your terminal
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 <br/>
 <br/>
 
@@ -59,15 +93,17 @@ Connect with me by typing out this command in your terminal
 <br/>
 
 ## Connect with me:
+
 <p align="center">
 
 <a href = "https://www.linkedin.com/in/jaydeep-dey03/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 <a href = "https://twitter.com/jaydeep_dey03"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
 <a href = "https://www.instagram.com/the.joy_ofeverything/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
+
 </p>
 
-
 ## ❤ Views and Followers
+
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jaydeepdey03">
 </a>
