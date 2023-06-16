@@ -82,6 +82,10 @@ Connect with me by typing out this command in your terminal
 
 </p>
 
+>## Git Streak
+> ![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaydeepdey03&theme=react)
+
+
 ## ❤ Views and Followers
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
