@@ -29,40 +29,42 @@ npx jaydeepdey03
 
 <h3 align="center">Languages and Tools:</h3>
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+<div align="center">
+  <div style="display: inline-block;">
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> 
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img style="margin-left: 10px" src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> 
   </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img style="margin-left: 10px" src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> 
   </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img style="margin-left: 10px" src="https://skillicons.dev/icons?i=javascript" alt="javascript" width="40" height="40"/> 
   </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img style="margin-left: 10px" src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> 
   </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img style="margin-left: 10px" src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> 
   </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img style="margin-left: 10px" src="https://skillicons.dev/icons?i=python" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img style="margin-left: 10px" src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
   </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img style="margin-left: 10px" src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> 
   </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right: 20px;"> 
     <img style="margin-left: 10px" src="https://skillicons.dev/icons?i=typescript" alt="typescript" width="40" height="40"/> 
   </a> 
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> 
     <img style="margin-left: 10px" src="https://skillicons.dev/icons?i=solidity" alt="solidity" width="40" height="40"/> 
   </a> 
+  </div>
 </div>
 
 
