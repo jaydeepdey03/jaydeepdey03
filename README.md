@@ -76,20 +76,22 @@ npx jaydeepdey03
 
 ## Connect with me:
 
-<p align="center">
-
+<div align="center">
+<div>
 <a href = "https://www.linkedin.com/in/jaydeep-dey03/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 <a href = "https://twitter.com/jaydeep_dey03"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"></a>
 <a href = "https://www.instagram.com/the.joy_ofeverything/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"></a>
+</div>
+</div>
 
-</p>
-
->## Git Streak
-> ![Git Streak](https://github-readme-streak-stats.herokuapp.com/?user=jaydeepdey03&theme=react)
-
+<div align="center">
+  <h2>Git Streak</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydeepdey03&theme=react" alt="Git Streak">
+</div>
 
 ## ❤ Views and Followers
 
+<p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=jaydeepdey03">
 </a>
