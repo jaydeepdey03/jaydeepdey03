@@ -8,7 +8,7 @@ Hi there! My name is Jaydeep Dey, and I'm a passionate technologist. I love to c
 Connect with me by typing out this command in your terminal
 
 ```bash
-  npx jaydeepdey03
+npx jaydeepdey03
 ```
 
 ## 🙋‍♂️ About Me
