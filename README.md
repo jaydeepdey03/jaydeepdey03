@@ -23,7 +23,7 @@ npx jaydeepdey03
 
 - 📫 How to reach me **jaydeep.dey03@gmail.com**
 
-- ⚡ Fun fact **I am very passionate about what I love to do**
+<!-- - ⚡ Fun fact **I am very passionate about what I love to do** -->
 
 ## 🚀 Languages and Tools:
 
