@@ -8,14 +8,14 @@ Hi there! My name is Jaydeep Dey, and I'm a passionate technologist. I love to c
 Connect with me by typing out this command in your terminal
 
 ```bash
-npx jaydeepdey03
+npx jaydeepdey03@latest
 ```
 
 ## 🙋‍♂️ About Me
 
 <!-- - 🔭 I’m currently working on [PolyStore - MarketPlace running on Polygon Blockchain](https://github.com/jaydeepdey03/nft-marketplace-polygon) -->
 
-- 🌱 I’m currently learning **GO Lang**
+- 🌱 I’m currently learning **Go Lang**
 
 - 💬 Ask me about **React, NextJS, Express**
 
